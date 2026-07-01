@@ -1,0 +1,296 @@
+canonical_identifier: bkk:krp/KR6c0226/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0226/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘理趣六波羅蜜多經
+  identifiers:
+    krp: KR6c0226
+    cbeta: T08n0261
+    cbeta_old_id: T08n0261
+    authorityid: CA0002032
+    json_key: T0261
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0261.xml
+    old_id: T08n0261
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0226_000-T.yaml, hash: 'sha256:852bf4d96becea0a8e87e4bdcd629db12447956edf41966ac86b63b683c2c999'}
+  - {seq: 1, filename: KR6c0226_001-T.yaml, hash: 'sha256:ec81fefdd022b34fc67309587f646265822c15cd20918ef4ce84e58241a42e17'}
+  - {seq: 2, filename: KR6c0226_002-T.yaml, hash: 'sha256:9c2db34db16a417641a2cbe434740b177a974966ecf115d4bebbcaa4d5049673'}
+  - {seq: 3, filename: KR6c0226_003-T.yaml, hash: 'sha256:03b0da3df60e3f4641884a93b0fd5300952b107912c0605f770a12c68494b768'}
+  - {seq: 4, filename: KR6c0226_004-T.yaml, hash: 'sha256:eaa04ba5324852f858d5db44238d919415821cf604e8d86864bdab4519098035'}
+  - {seq: 5, filename: KR6c0226_005-T.yaml, hash: 'sha256:a852657945c85538ede406a999877e82dc94c721824cd99ca85684845ffaedda'}
+  - {seq: 6, filename: KR6c0226_006-T.yaml, hash: 'sha256:5178c9f077a749c939a5f2abb7d943d03354e5752cbb6f2e981942d3edf47787'}
+  - {seq: 7, filename: KR6c0226_007-T.yaml, hash: 'sha256:af3034c02213182482fed7452e9f3ec2ad339e214b2932a6173d6f4332c7196c'}
+  - {seq: 8, filename: KR6c0226_008-T.yaml, hash: 'sha256:392e5520df2edc8dade985c7c630bfb3b315f3f17048d92d0b893fa7b8578749'}
+  - {seq: 9, filename: KR6c0226_009-T.yaml, hash: 'sha256:df697872fc9d7788be89ca7810f99cdd2f24601eaaf6a051fbcab265a4a01f7c'}
+  - {seq: 10, filename: KR6c0226_010-T.yaml, hash: 'sha256:94f8c8a5522796215e246490c235f4ffa58ea222b0db3bc1093a4b1a228ab0ea'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0226_000-T.markers.yaml, hash: 'sha256:336e914b1a61a6d1456649384226191d0c126792eee709bfa643d0b31f76e980'}
+  - {seq: 1, role: markers, filename: assets/KR6c0226_001-T.markers.yaml, hash: 'sha256:3f9823d85f28b558d3eb71dba1a7420a36707cb877869ea621bd551eedbc299f'}
+  - {seq: 2, role: markers, filename: assets/KR6c0226_002-T.markers.yaml, hash: 'sha256:c2da9b5642bd1a534f03218c7d38cf30a0c40a2602e1d6c0c0ed13ee64c1b45a'}
+  - {seq: 3, role: markers, filename: assets/KR6c0226_003-T.markers.yaml, hash: 'sha256:5819694d62c5995b6e8f36d7bd887aca6c750d402ae1f29972cda9ea09389a42'}
+  - {seq: 4, role: markers, filename: assets/KR6c0226_004-T.markers.yaml, hash: 'sha256:71d82f975bac8bc8011f34a28886c8221a269e14bc7c86f15f38f0f40a38bd83'}
+  - {seq: 5, role: markers, filename: assets/KR6c0226_005-T.markers.yaml, hash: 'sha256:53b5cc9b4979f6a7b5d3d8983bf81fe1285b4c74680b009a3e496de42265a038'}
+  - {seq: 6, role: markers, filename: assets/KR6c0226_006-T.markers.yaml, hash: 'sha256:755f3318ee870d41039b70f51ec057070be4003168a2b7d4289fd02abd571c73'}
+  - {seq: 7, role: markers, filename: assets/KR6c0226_007-T.markers.yaml, hash: 'sha256:96943c1ca900501d86e8dec1f883db008f082916af65cf73223ae6343018d227'}
+  - {seq: 8, role: markers, filename: assets/KR6c0226_008-T.markers.yaml, hash: 'sha256:b645a8b86177b1cf2024842365d75d3de05ff34ca496e6b221848291b3ff6641'}
+  - {seq: 9, role: markers, filename: assets/KR6c0226_009-T.markers.yaml, hash: 'sha256:abffabd790d86a1e8d69d5dd5f5288d3261d22188e2f497134969f7aca7b0f4b'}
+  - {seq: 10, role: markers, filename: assets/KR6c0226_010-T.markers.yaml, hash: 'sha256:1a6b2281e1ed1dad0a5ffd687a93b288f826559bf9d34c4d0b4541b5134ef911'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0226_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0226_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6267
+  label: 大乘理趣六波羅蜜多經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0226_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 歸依三寶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0226_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8193
+  label: 大乘理趣六波羅蜜多經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0226_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 2 陀羅尼護持國界品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0226_T_002-mulu-2
+    span:
+    - body
+    - 6414
+    - 6414
+  label: 3 發菩提心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0226_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8125
+  label: 大乘理趣六波羅蜜多經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0226_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 4 不退轉品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0226_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7185
+  label: 大乘理趣六波羅蜜多經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0226_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 5 布施波羅蜜多品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0226_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5863
+  label: 大乘理趣六波羅蜜多經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0226_T_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 淨戒波羅蜜多品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0226_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5931
+  label: 大乘理趣六波羅蜜多經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0226_T_006-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 7 安忍波羅蜜多品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0226_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5219
+  label: 大乘理趣六波羅蜜多經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0226_T_007-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 8 精進波羅蜜多品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0226_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7582
+  label: 大乘理趣六波羅蜜多經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0226_T_008-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 靜慮波羅蜜多品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0226_T_008-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0226_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8432
+  label: 大乘理趣六波羅蜜多經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0226_T_009-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 之餘
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0226_T_009-mulu-2
+    span:
+    - body
+    - 3887
+    - 3887
+  label: 10 般若波羅蜜多品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0226_T_009-mulu-3
+    span:
+    - body
+    - 3887
+    - 3887
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0226_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8968
+  label: 大乘理趣六波羅蜜多經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0226_T_010-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 之餘
+  type: mulu
+  level: 1
+hash: sha256:174e492f33fc3dde2b2ef9c244e692990a64b2a03938f8967affb12e62ac1e71
